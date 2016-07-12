@@ -16,7 +16,7 @@
 	
 	.footer_inner .logo > img,
 	.header_mid_inner .logo img {
-		display:none;
+		display:block;
 	}
 	
 	.footer_inner .logo > .footer_logo_retina,

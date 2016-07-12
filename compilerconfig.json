@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wp-content/themes/dental-clinic/StyleSheet.css",
+    "inputFile": "wp-content/themes/dental-clinic/StyleSheet.scss"
+  },
+  {
+    "outputFile": "wp-content/themes/dental-clinic/css/orangeColor.css",
+    "inputFile": "wp-content/themes/dental-clinic/css/orangeColor.scss"
+  }
+]
